@@ -1,0 +1,1468 @@
+# Translation of Themes - Newscrunch in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Newscrunch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-21 09:19:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Newscrunch\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Newscrunch is a magazine and blog theme. It is a lightweight, elegant, and fully responsive theme specifically designed for creating magazines, newspapers, editors, blogs, and dynamic news websites. It seamlessly integrates with the Gutenberg block editor, empowering you to effortlessly build your website using intuitive blocks. The theme is highly compatible with popular plugins such as Contact Form 7, Polylang, and WPML, offering expanded functionality. Newscrunch Theme prioritizes user privacy and complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. Additionally, all fonts used in the theme are locally hosted, eliminating the reliance on external resources like Google Fonts. The theme is also schema-ready, enhancing search engine visibility and optimization. With its GDPR compliance, sleek design, and efficient performance, Newscrunch Theme caters to various businesses. It provides a wide range of widgets and sections tailored to specific industries, enabling you to swiftly create a stunning website with beautiful designs. To explore the theme further, feel free to check out our demo at: https://demo-newscrunch.spicethemes.com/demo-one/"
+msgstr "Newscrunch es un tema para blogs y revistas. Es un tema ligero, elegante y totalmente adaptable diseñado específicamente para crear revistas, periódicos, editoriales, blogs y sitios web dinámicos de noticias. Se integra perfectamente con el editor de bloques Gutenberg, lo que te permite construir tu web sin esfuerzo utilizando bloques intuitivos. El tema es altamente compatible con plugins populares como Contact Form 7, Polylang y WPML, ofreciendo una funcionalidad ampliada. El tema Newscrunch da prioridad a la privacidad del usuario y cumple las directrices del Reglamento General de Protección de Datos (GDPR), absteniéndose de recopilar cualquier dato personal restringido por el GDPR. Además, todas las fuentes utilizadas en el tema están alojadas localmente, eliminando la dependencia de recursos externos como Google Fonts. El tema también está preparado para el schema, lo que mejora la visibilidad y optimización en los motores de búsqueda. Gracias a su cumplimiento del GDPR, su diseño elegante y su rendimiento eficiente, el tema Newscrunch se adapta a diversos negocios. Ofrece una amplia gama de widgets y secciones adaptadas a sectores específicos, lo que te permite crear rápidamente una web impresionante con bellos diseños. Para explorar más a fondo el tema, no dudes en consultar nuestra demo en: https://demo-newscrunch.spicethemes.com/demo-one/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Newscrunch"
+msgstr "Newscrunch"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr "Debes insalar y activar el plugin «Spice Starter Sites» para importar la demo."
+
+#: inc/customizer/settings/general-settings.php:373
+msgid "Enable/Disable Padding"
+msgstr "Activar/desactivar relleno"
+
+#: inc/customizer/settings/scroll-to-top.php:112
+msgid "Double Arrow Up"
+msgstr "Flecha doble arriba"
+
+#: inc/customizer/upsell/class-customize.php:76
+#: inc/customizer/upsell/class-customize.php:87
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#. Template Name of the theme
+msgid "Blog Right Sidebar"
+msgstr "Barra lateral izquierda del blog"
+
+#: inc/customizer/settings/scroll-to-top.php:205
+msgid "Background Hover"
+msgstr "Color de fondo al pasar el cursor"
+
+#: inc/customizer/settings/scroll-to-top.php:114
+msgid "Arrow Up Long"
+msgstr "Flecha larga arriba"
+
+#: inc/customizer/settings/scroll-to-top.php:113
+msgid "Arrow Single"
+msgstr "Flecha sencilla"
+
+#: inc/customizer/settings/scroll-to-top.php:222
+msgid "Icon Hover"
+msgstr "Icono al pasar el cursor"
+
+#: inc/customizer/settings/scroll-to-top.php:98
+msgid "fa fa-arrow-up"
+msgstr "fa fa-arrow-up"
+
+#: inc/customizer/settings/general-settings.php:280
+msgid "Heading 6"
+msgstr "Encabezado 6"
+
+#: inc/customizer/settings/general-settings.php:279
+msgid "Heading 5"
+msgstr "Encabezado 5"
+
+#: inc/customizer/settings/general-settings.php:278
+msgid "Heading 4"
+msgstr "Encabezado 4"
+
+#: inc/customizer/settings/general-settings.php:277
+msgid "Heading 3"
+msgstr "Título 3"
+
+#: inc/customizer/settings/general-settings.php:276
+msgid "Heading 2"
+msgstr "Título 2"
+
+#: inc/customizer/settings/general-settings.php:275
+msgid "Heading 1"
+msgstr "Título 1"
+
+#: inc/customizer/settings/general-settings.php:225
+msgid "page_header"
+msgstr "page_header"
+
+#: inc/customizer/settings/general-settings.php:45
+msgid "To customize the SEO Optimized Images settings, click on below link:"
+msgstr "Haz clic en el siguiente enlace para personalizar los ajustes de SEO Optimized Images:"
+
+#: inc/customizer/settings/general-settings.php:21
+msgid "To Unlock SEO Optimized Images feature you need to Install and activate. The SEO Optimized Images plugin lets you dynamically insert SEO-Friendly “alt” and “title” attributes to your website images. "
+msgstr "Para desbloquear la función de imágenes optimizadas para SEO, debes instalarlo y activarlo. El plugin SEO Optimized Images te permite insertar dinámicamente atributos «alt» y «title» optimizados para SEO en las imágenes de tu web. "
+
+#: inc/customizer/settings/general-settings.php:607
+msgid "Front Content 1"
+msgstr "Contenido de portada 1"
+
+#: inc/customizer/settings/scroll-to-top.php:171
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/settings/general-settings.php:630
+msgid "Front Content 2"
+msgstr "Contenido de portada 2"
+
+#: partials/widgets/advertisement.php:52 partials/widgets/featured-post.php:167
+#: partials/widgets/post-grid-2-column-slider.php:162
+#: partials/widgets/post-grid-2-column.php:82
+#: partials/widgets/post-grid-3-column-slider.php:142
+#: partials/widgets/post-list-grid-view.php:95
+#: partials/widgets/post-overlay-slider.php:257
+msgid "Widget title"
+msgstr "Título del widget"
+
+#: partials/widgets/tabs.php:236
+msgid "Show post featured image"
+msgstr "Mostrar imagen destacada"
+
+#: partials/widgets/tabs.php:221
+msgid "Hide default thumbnail image"
+msgstr "Ocultar la imagen en miniatura por defecto"
+
+#: partials/widgets/tabs.php:18
+msgid "Display your posts in tabs"
+msgstr "Muestra tus entradas en pestañas"
+
+#: partials/widgets/single-column.php:19
+msgid "Display your blog in a single-column layout."
+msgstr "Muestra tu blog en un diseño de una sola columna."
+
+#: partials/widgets/register-sidebars.php:116
+#: partials/widgets/register-sidebars.php:131
+#: partials/widgets/register-sidebars.php:146
+#: partials/widgets/register-sidebars.php:161
+msgid "Footer"
+msgstr "Pie"
+
+#: partials/widgets/register-sidebars.php:30
+#: partials/widgets/register-sidebars.php:60
+msgid "Add widgets in front sidebar"
+msgstr "Añadir widgets en la barra lateral de la portada"
+
+#: partials/widgets/register-sidebars.php:15
+#: partials/widgets/register-sidebars.php:30
+#: partials/widgets/register-sidebars.php:45
+#: partials/widgets/register-sidebars.php:60
+msgid "widget area"
+msgstr "área de widgets"
+
+#: partials/widgets/register-sidebars.php:15
+#: partials/widgets/register-sidebars.php:45
+msgid "Add widgets in front page"
+msgstr "Añadir widgets en la portada"
+
+#: partials/widgets/post-list-view-slider.php:179
+msgid "Show author image"
+msgstr "Mostrar imagen del autor"
+
+#: partials/widgets/post-list-grid-view.php:19
+msgid "Display your blog in a grid view with a list layout"
+msgstr "Muestra tu blog en una vista de cuadrícula con un diseño de lista"
+
+#: partials/widgets/post-grid-3-column-slider.php:18
+msgid "Display your posts as a three-column grid slider"
+msgstr "Muestra tus entradas como un carrusel a cuadrícula de tres columnas"
+
+#: partials/widgets/post-grid-2-column-slider.php:200
+msgid "Right post date background color"
+msgstr "Color de fondo de la fecha de publicación correcta"
+
+#: partials/widgets/post-grid-2-column-slider.php:195
+msgid "Left post date background color"
+msgstr "Color de fondo de la fecha de publicación izquierda"
+
+#: partials/widgets/post-grid-2-column-slider.php:18
+msgid "Display your posts as a two-column grid slider"
+msgstr "Muestra tus entradas como un carrusel en cuadrícula de dos columnas"
+
+#: partials/widgets/featured-post.php:215
+msgid "Show read more"
+msgstr "Mostrar leer más"
+
+#: partials/widgets/featured-post.php:210
+#: partials/widgets/single-column.php:123
+msgid "Show comments"
+msgstr "Mostrar comentarios"
+
+#: partials/widgets/featured-post.php:205
+#: partials/widgets/post-grid-2-column-slider.php:211
+#: partials/widgets/post-grid-3-column-slider.php:184
+#: partials/widgets/post-overlay-slider.php:294
+msgid "Show author details"
+msgstr "Ocultar/Mostrar detalles del autor"
+
+#: partials/widgets/featured-post.php:200
+#: partials/widgets/post-grid-2-column-slider.php:216
+#: partials/widgets/post-grid-3-column-slider.php:174
+#: partials/widgets/post-list-view-slider.php:184
+#: partials/widgets/post-overlay-slider.php:299
+msgid "Show post category"
+msgstr "Mostrar categoría de la entrada"
+
+#: partials/widgets/featured-post.php:195
+#: partials/widgets/post-grid-2-column-slider.php:206
+#: partials/widgets/post-grid-2-column.php:113
+#: partials/widgets/post-grid-3-column-slider.php:179
+#: partials/widgets/post-list-grid-view.php:125
+#: partials/widgets/post-list-view-slider.php:174
+#: partials/widgets/post-overlay-slider.php:289
+#: partials/widgets/single-column.php:118 partials/widgets/tabs.php:233
+msgid "Show post date"
+msgstr "Mostrar fecha de la entrada"
+
+#: inc/helpers.php:469
+msgid "Loading Now"
+msgstr "Cargando ahora"
+
+#: inc/customizer/settings/top-header.php:343
+msgid "Icon Background Hover Color"
+msgstr "Color del fondo del ícono al pasar el cursor"
+
+#: inc/customizer/settings/top-header.php:171
+msgid "Time Color"
+msgstr "Color del horario"
+
+#: inc/customizer/settings/top-header.php:155
+msgid "Date Color"
+msgstr "Color de la fecha"
+
+#: inc/customizer/settings/theme-header.php:221
+msgid "Active Link Color"
+msgstr "Color de enlace activo"
+
+#: inc/customizer/settings/theme-footer.php:181
+msgid "Title Color"
+msgstr "Color del título"
+
+#: inc/customizer/settings/site-identity.php:247
+msgid "Site Tagline Color"
+msgstr "Color de la descripción corta"
+
+#: inc/customizer/settings/site-identity.php:231
+msgid "Site Title Hover Color"
+msgstr "Color del título del sitio al pasar el cursor"
+
+#: inc/customizer/settings/top-header.php:311
+msgid "Icon Hover Color"
+msgstr "Color de icono al pasar el cursor"
+
+#: inc/customizer/settings/top-header.php:295
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: inc/customizer/settings/main-banner.php:226
+msgid "Hide/Show Read More"
+msgstr "Ocultar/Mostrar Leer más"
+
+#: inc/customizer/settings/main-banner.php:112
+#: inc/customizer/settings/main-banner.php:113
+#: inc/customizer/settings/main-banner.php:193
+#: inc/customizer/settings/main-banner.php:194
+#: inc/customizer/settings/main-banner.php:270
+#: inc/customizer/settings/main-banner.php:271
+msgid "Oldest"
+msgstr "Más antiguo"
+
+#: inc/customizer/settings/main-banner.php:112
+#: inc/customizer/settings/main-banner.php:113
+#: inc/customizer/settings/main-banner.php:193
+#: inc/customizer/settings/main-banner.php:194
+#: inc/customizer/settings/main-banner.php:270
+#: inc/customizer/settings/main-banner.php:271
+msgid "Newest"
+msgstr "Lo más nuevo"
+
+#: inc/customizer/settings/bottom-footer.php:216
+#: inc/customizer/settings/theme-footer.php:232
+#: inc/customizer/settings/theme-header.php:205
+#: inc/customizer/settings/theme-header.php:270
+msgid "Link Hover Color"
+msgstr "Color de los enlaces al pasar el cursor"
+
+#: inc/customizer/settings/bottom-footer.php:199
+#: inc/customizer/settings/theme-footer.php:215
+#: inc/customizer/settings/theme-header.php:189
+#: inc/customizer/settings/theme-header.php:254
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: inc/customizer/settings/bottom-footer.php:182
+#: inc/customizer/settings/theme-footer.php:198
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/customizer/settings/bottom-footer.php:165
+msgid "Menu Hover Color"
+msgstr "Color del menú al pasar por encima"
+
+#: inc/customizer/settings/bottom-footer.php:148
+msgid "Menu Color"
+msgstr "Color del menú"
+
+#: inc/customizer/settings/bottom-footer.php:71 inc/helpers.php:136
+msgid "Theme"
+msgstr "Tema"
+
+#. translators: %s: theme name
+#: functions.php:186
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+#: functions.php:177
+msgid "Hello"
+msgstr "Hola"
+
+#: functions.php:80
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: comments.php:66
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:59
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/tab-pages/getting-started.php:77
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/tab-pages/getting-started.php:73
+msgid "Menus"
+msgstr "Menús"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Footer Widgets"
+msgstr "Widgets del pie de página"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "Header Section"
+msgstr "Sección de cabecera"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "Get started with %s theme"
+msgstr "Primeros pasos con el tema %s"
+
+#: 404.php:20
+msgid "Back to Home"
+msgstr "Volver al Inicio"
+
+#: 404.php:16
+msgid "Oops! Page not found"
+msgstr "¡Vaya! Página no encontrada"
+
+#: template-parts/content-single.php:67
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: comments.php:80 partials/widgets/featured-post.php:98
+#: partials/widgets/single-column.php:71 template-parts/content-blog.php:46
+#: template-parts/content-blog.php:47 template-parts/content-search.php:45
+#: template-parts/content-search.php:46 template-parts/content.php:50
+#: template-parts/content.php:51
+msgid "Comments"
+msgstr "Comentarios"
+
+#: template-parts/content-none.php:15
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: template-parts/content-none.php:14
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: inc/customizer/settings/main-banner.php:168
+#: inc/customizer/settings/news-highlight.php:198
+#: partials/widgets/post-grid-2-column-slider.php:190
+#: partials/widgets/post-grid-2-column.php:107
+#: partials/widgets/post-grid-3-column-slider.php:168
+#: partials/widgets/post-list-grid-view.php:119
+#: partials/widgets/post-list-view-slider.php:168
+#: partials/widgets/post-overlay-slider.php:283
+#: partials/widgets/single-column.php:112 partials/widgets/tabs.php:228
+msgid "Number of posts to show"
+msgstr "Número de entradas a mostrar"
+
+#: partials/widgets/tabs.php:224 partials/widgets/tabs.php:238
+msgid "Show"
+msgstr "Mostrar"
+
+#: partials/widgets/tabs.php:223 partials/widgets/tabs.php:239
+msgid "Hide"
+msgstr "Ocultar"
+
+#: partials/widgets/tabs.php:65
+msgid "Comment"
+msgstr "Comentario"
+
+#: partials/widgets/tabs.php:60
+msgid "Popular"
+msgstr "Popular"
+
+#: partials/widgets/tabs.php:55
+msgid "Recent"
+msgstr "Reciente"
+
+#: partials/widgets/tabs.php:15
+msgid "Newscrunch : Post Tab Sidebar"
+msgstr "Newscrunch : Barra lateral de entradas en pestañas"
+
+#: partials/widgets/social-icons.php:166 partials/widgets/social-icons.php:172
+#: partials/widgets/social-icons.php:178 partials/widgets/social-icons.php:184
+#: partials/widgets/social-icons.php:190 partials/widgets/social-icons.php:196
+#: partials/widgets/social-icons.php:202 partials/widgets/social-icons.php:208
+msgid "Followers"
+msgstr "Seguidores"
+
+#: partials/widgets/social-icons.php:18
+msgid "Display your social icons"
+msgstr "Muestra tus iconos sociales"
+
+#: partials/widgets/social-icons.php:15
+msgid "Newscrunch : Social Icons Sidebar"
+msgstr "Newscrunch : Barra lateral de iconos sociales"
+
+#: partials/widgets/single-column.php:16
+msgid "Newscrunch : Single Column Sidebar"
+msgstr "Newscrunch : Barra lateral de una columna"
+
+#: partials/widgets/register-sidebars.php:118
+#: partials/widgets/register-sidebars.php:133
+#: partials/widgets/register-sidebars.php:148
+#: partials/widgets/register-sidebars.php:163
+msgid "Add widgets in footer widget area"
+msgstr "Añadir widgets en el área de widgets del pie de página"
+
+#: partials/widgets/register-sidebars.php:103
+msgid "Add widgets in side panel widget area"
+msgstr "Añadir widgets en el área de widgets del panel lateral"
+
+#: partials/widgets/register-sidebars.php:101
+msgid "Side Panel"
+msgstr "Panel lateral"
+
+#: partials/widgets/register-sidebars.php:75
+msgid "Add widgets in right sidebar widget area"
+msgstr "Añadir widgets en el área de widgets de la barra lateral derecha"
+
+#: partials/widgets/register-sidebars.php:28
+#: partials/widgets/register-sidebars.php:58
+msgid "Front Sidebar"
+msgstr "Barra lateral de la portada"
+
+#: partials/widgets/register-sidebars.php:13
+#: partials/widgets/register-sidebars.php:43
+msgid "Front Left Content"
+msgstr "Contenido izquierdo de la portada"
+
+#: partials/widgets/post-overlay-slider.php:18
+msgid "Display your posts as an overlay slider."
+msgstr "Muestra tus entradas como un carrusel superpuesto."
+
+#: partials/widgets/post-overlay-slider.php:15
+msgid "Newscrunch : Overlay Slider"
+msgstr "Newscrunch : Carrusel superpuesto"
+
+#: partials/widgets/post-list-view-slider.php:18
+msgid "Display your post as list view slider"
+msgstr "Mostrar tu entrada como vista de lista en carrusel"
+
+#: partials/widgets/post-list-view-slider.php:15
+msgid "Newscrunch : List View Slider"
+msgstr "Newscrunch : Carrusel en lista"
+
+#: partials/widgets/post-list-grid-view.php:16
+msgid "Newscrunch : List Grid View"
+msgstr "Newscrunch : Vista de cuadrícula de lista"
+
+#: partials/widgets/post-grid-3-column-slider.php:92
+msgid "By"
+msgstr "Por"
+
+#: partials/widgets/post-grid-3-column-slider.php:15
+msgid "Newscrunch : Post Grid 3 Column Slider"
+msgstr "Newscrunch : Carrusel de entradas en cuadrícula de 2 coumnas"
+
+#: partials/widgets/post-grid-2-column.php:19
+msgid "This represent your post design layout in 2 column"
+msgstr "Esto representa el diseño de entradas en 2 columnas"
+
+#: partials/widgets/post-grid-2-column.php:16
+msgid "Newscrunch : Post Grid 2 Column Sidebar"
+msgstr "Newscrunch : Barra lateral en cuadrícula de 2 columnas"
+
+#: partials/widgets/post-grid-2-column-slider.php:180
+#: partials/widgets/post-grid-3-column-slider.php:158
+#: partials/widgets/post-list-grid-view.php:109
+#: partials/widgets/post-list-view-slider.php:158
+#: partials/widgets/post-overlay-slider.php:273
+msgid "All Category"
+msgstr "Todas las categorías"
+
+#: partials/widgets/post-grid-2-column-slider.php:15
+msgid "Newscrunch : Post Grid 2 Column Slider"
+msgstr "Newscrunch : Carrusel de entradas en cuadrícula en 2 columnas"
+
+#: partials/widgets/featured-post.php:184
+#: partials/widgets/post-grid-2-column.php:97
+#: partials/widgets/single-column.php:102
+msgid "Select category"
+msgstr "Elegir categoría"
+
+#: partials/widgets/featured-post.php:182
+#: partials/widgets/post-grid-2-column-slider.php:178
+#: partials/widgets/post-grid-2-column.php:95
+#: partials/widgets/post-grid-3-column-slider.php:156
+#: partials/widgets/post-list-grid-view.php:107
+#: partials/widgets/post-list-view-slider.php:156
+#: partials/widgets/post-overlay-slider.php:271
+#: partials/widgets/single-column.php:100
+msgid "Categories"
+msgstr "Categorías"
+
+#: partials/widgets/featured-post.php:19
+msgid "Display your post as featured post"
+msgstr "Mostrar tu blog como entrada destacada"
+
+#: partials/widgets/featured-post.php:16
+msgid "Newscrunch : Featured Post"
+msgstr "Newscrunch : Entrada destacada"
+
+#: partials/widgets/advertisement.php:90
+msgid "Select Image"
+msgstr "Elegir imagen"
+
+#: partials/widgets/advertisement.php:81
+msgid "Button URL"
+msgstr "URL del botón"
+
+#: partials/widgets/advertisement.php:66
+msgid "Heading"
+msgstr "Encabezado"
+
+#: partials/widgets/advertisement.php:61 partials/widgets/featured-post.php:177
+#: partials/widgets/post-grid-2-column-slider.php:173
+#: partials/widgets/post-grid-2-column.php:90
+#: partials/widgets/post-grid-3-column-slider.php:151
+#: partials/widgets/post-list-grid-view.php:102
+#: partials/widgets/post-list-view-slider.php:142
+#: partials/widgets/post-list-view-slider.php:151
+#: partials/widgets/post-overlay-slider.php:266
+#: partials/widgets/single-column.php:86 partials/widgets/single-column.php:95
+#: partials/widgets/social-icons.php:214
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: partials/widgets/advertisement.php:18
+msgid "Display the advertisement"
+msgstr "Mostrar el anuncio"
+
+#: partials/widgets/advertisement.php:15
+msgid "Newscrunch : Advertisement  Sidebar"
+msgstr "Newscrunch : Barra lateral publicitaria"
+
+#: partials/front/main-banner.php:139 partials/widgets/featured-post.php:147
+#: template-parts/content-first.php:60
+msgid "Read More"
+msgstr "Leer más"
+
+#: partials/front/main-banner.php:65 partials/front/main-banner.php:147
+#: partials/front/main-banner.php:223 partials/front/news-highlight-2.php:48
+#: partials/front/news-highlight-2.php:79 partials/front/news-video.php:82
+#: template-parts/content-blog.php:65 template-parts/content-first.php:43
+#: template-parts/content-search.php:63 template-parts/content-single.php:46
+#: template-parts/content.php:68
+msgid "date-time"
+msgstr "date-time"
+
+#: inc/meta-boxes/newscrunch-meta-box.php:27
+msgid "Layout Settings (Layout settings will not work with custom templates, except for the default template.)"
+msgstr "Ajustes de diseño (Los ajustes de diseño no funcionarán con las plantillas personalizadas, excepto con la plantilla predeterminada)"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:66
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:85
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:65
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:84
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:64
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:83
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:63
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:82
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:43
+msgid "Layout"
+msgstr "Diseño de pantalla"
+
+#: inc/menu/default_menu_walker.php:51 partials/header/default-header.php:90
+#: partials/header/default-header.php:92 partials/header/main-header.php:70
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/helpers.php:729
+msgid "Add Side Panel Widgets Area."
+msgstr "Añade el área de widgets del panel lateral."
+
+#: inc/helpers.php:326
+msgid "Tag:&nbsp;"
+msgstr "Etiqueta:&nbsp;"
+
+#: inc/helpers.php:323
+msgid "Category:&nbsp;"
+msgstr "Categoría:&nbsp;"
+
+#: 404.php:15 inc/helpers.php:320
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/helpers.php:309 inc/menu/default_menu_walker.php:19
+msgid "Home"
+msgstr "Inicio"
+
+#. translators: %1$s: comment date and %2$s: comment time
+#: inc/helpers.php:263
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/helpers.php:200
+msgid "Assign Footer Menu"
+msgstr "Asignar menú de pie de página"
+
+#: inc/customizer/settings/top-header.php:327
+msgid "Icon Background Color"
+msgstr "Color de fondo del icono"
+
+#: admin/tab-pages/getting-started.php:65
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/settings/top-header.php:256
+msgid "Social Icon Details"
+msgstr "Detalles del icono social"
+
+#: inc/customizer/settings/top-header.php:241
+msgid "Enable/Disable Social Icons"
+msgstr "Activar/Desactivar iconos sociales"
+
+#: inc/customizer/settings/top-header.php:184
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: inc/customizer/settings/top-header.php:95
+msgid "Enable/Disable Time"
+msgstr "Activar/desactivar hora"
+
+#: inc/customizer/settings/top-header.php:79
+msgid "Enable/Disable Date"
+msgstr "Activar/desactivar fecha"
+
+#: inc/customizer/settings/top-header.php:20
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: inc/customizer/settings/top-header.php:12
+msgid "Top Header"
+msgstr "Cabecera superior"
+
+#: inc/customizer/settings/theme-header.php:304
+msgid "Enable/Disable Toggle Icon"
+msgstr "Activar/desactivar el icono de alternar"
+
+#: inc/customizer/settings/theme-header.php:287
+msgid "Enable/Disable Dark/Light Icon"
+msgstr "Activar/desactivar icono oscuro/claro"
+
+#: inc/customizer/settings/theme-header.php:154
+msgid "Enable/Disable Sticky Header"
+msgstr "Activar / Desactivar la cabecera fija"
+
+#: inc/customizer/settings/theme-header.php:137
+msgid "Enable/Disable Search Icon"
+msgstr "Activar / Desactivar el icono de búsqueda"
+
+#: inc/customizer/settings/theme-header.php:119
+msgid "Enable/Disable Border Radius"
+msgstr "Activar/desactivar radio del borde"
+
+#: inc/customizer/settings/theme-header.php:102
+#: inc/customizer/settings/theme-header.php:120
+msgid "Note: This settings will work with header 1, 2, 3"
+msgstr "Nota: Esta configuración funcionará con las cabeceras 1, 2, 3"
+
+#: inc/customizer/settings/theme-header.php:101
+msgid "Enable/Disable Border"
+msgstr "Activar/desactivar borde"
+
+#: inc/customizer/settings/theme-header.php:72
+msgid "Header Layout"
+msgstr "Estructura de la cabecera"
+
+#: inc/customizer/settings/theme-header.php:12
+msgid "Theme Header"
+msgstr "Cabecera del tema"
+
+#: inc/customizer/settings/theme-footer.php:139
+msgid "Widgets Image Overlay Color"
+msgstr "Color de superposición de la imagen de los widgets"
+
+#: inc/customizer/settings/theme-footer.php:121
+msgid "Enable/Disable Image Overlay"
+msgstr "Activar/desactivar la superposición de imagen"
+
+#: inc/customizer/settings/theme-footer.php:104
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/settings/theme-footer.php:83
+msgid "Widgets Layout"
+msgstr "Disposición de los widgets"
+
+#: inc/customizer/settings/theme-footer.php:65
+msgid "Enable/Disable Footer Widgets"
+msgstr "Activar/desactivar los widgets del pie de página"
+
+#: inc/customizer/settings/theme-footer.php:12
+msgid "Theme Footer"
+msgstr "Pie de página del tema"
+
+#: inc/customizer/settings/site-identity.php:215
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: inc/customizer/settings/site-identity.php:180
+msgid "Display Site Tagline"
+msgstr "Mostrar descripción corta del sitio"
+
+#: inc/customizer/settings/site-identity.php:162
+msgid "Display Site Title"
+msgstr "Mostrar el título del sitio"
+
+#: inc/customizer/settings/site-identity.php:147
+msgid "Dark Layout Logo"
+msgstr "Logotipo del diseño oscuro"
+
+#: inc/customizer/settings/site-identity.php:63
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: inc/customizer/settings/single-post-options.php:48
+msgid "Hide/Show Categories"
+msgstr "Ocultar/mostrar categorías"
+
+#: inc/customizer/settings/bottom-footer.php:131
+#: inc/customizer/settings/theme-header.php:238
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/settings/scroll-to-top.php:130
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: inc/customizer/settings/scroll-to-top.php:111
+msgid "Arrow Up"
+msgstr "Flecha arriba"
+
+#: inc/customizer/settings/scroll-to-top.php:104
+msgid "Select Icon"
+msgstr "Seleccionar icono"
+
+#: inc/customizer/settings/scroll-to-top.php:82
+msgid "Choose Position"
+msgstr "Elige la posición"
+
+#: inc/customizer/settings/scroll-to-top.php:65
+msgid "Enable/Disable Scroll To Top"
+msgstr "Activar/desactivar el desplazamiento hacia arriba"
+
+#: inc/customizer/settings/scroll-to-top.php:12
+msgid "Scroll To Top"
+msgstr "Hacer scroll al inicio"
+
+#: inc/customizer/settings/news-highlight.php:145
+msgid "Select Post Title"
+msgstr "Seleccionar el título de la entrada"
+
+#: inc/customizer/settings/news-highlight.php:113
+msgid "Select Post Category"
+msgstr "Seleccionar la categoría de la entrada"
+
+#: inc/customizer/settings/news-highlight.php:97
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/settings/news-highlight.php:90
+msgid "Search By"
+msgstr "Búsqueda por"
+
+#: inc/customizer/settings/news-highlight.php:27
+msgid "Enable/Disable News Highlight"
+msgstr "Activar/desactivar las noticias destacadas"
+
+#: inc/customizer/settings/news-highlight.php:13
+msgid "News Highlight"
+msgstr "Noticias destacadas"
+
+#: inc/customizer/settings/main-banner.php:105
+#: inc/customizer/settings/main-banner.php:186
+#: inc/customizer/settings/main-banner.php:263
+msgid "Orderby"
+msgstr "Ordenar por"
+
+#: inc/customizer/settings/main-banner.php:45
+msgid "Enter either spice post slider shortcode or pro package shortcode here"
+msgstr "Introduce aquí el shortcode del carrusel de entrada spice o el shortcode pro package"
+
+#: inc/customizer/settings/main-banner.php:44
+msgid "Enter spice slider shortcode here"
+msgstr "Introduce aquí el shortcode del carrusel spice"
+
+#: inc/customizer/settings/main-banner.php:13
+msgid "Main Banner"
+msgstr "Banner principal"
+
+#: inc/customizer/settings/general-settings.php:776
+msgid "Skin Color"
+msgstr "Color del tema"
+
+#: inc/customizer/settings/general-settings.php:757
+msgid "Enable custom color skin"
+msgstr "Habilitar el color del tema personalizado"
+
+#: inc/customizer/settings/general-settings.php:739
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer/settings/general-settings.php:712
+msgid "Category Color"
+msgstr "Color de la categoría"
+
+#: inc/customizer/settings/general-settings.php:649
+#: inc/customizer/settings/general-settings.php:664
+msgid "Theme Layout"
+msgstr "Diseño del tema"
+
+#: inc/customizer/settings/general-settings.php:583
+msgid "Page"
+msgstr "Página"
+
+#: inc/customizer/settings/general-settings.php:559
+#: inc/customizer/settings/single-post-options.php:12
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/customizer/settings/archives-options.php:13
+#: inc/customizer/settings/general-settings.php:535
+msgid "Blog/Archives"
+msgstr "Blog/Archivos"
+
+#: admin/tab-pages/getting-started.php:61
+#: inc/customizer/settings/general-settings.php:517
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: inc/customizer/settings/general-settings.php:502
+msgid "Enable/Disable Banner Image Overlay"
+msgstr "Activar/desactivar superposición de imagen del banner"
+
+#: inc/customizer/settings/general-settings.php:475
+#: inc/customizer/settings/scroll-to-top.php:89
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/settings/general-settings.php:447
+msgid "Bottom"
+msgstr "Abajo"
+
+#: inc/customizer/settings/general-settings.php:419
+#: inc/customizer/settings/scroll-to-top.php:90
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/settings/general-settings.php:391
+msgid "Top"
+msgstr "Arriba"
+
+#: inc/customizer/settings/general-settings.php:349
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/customizer/settings/general-settings.php:283
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/settings/general-settings.php:282
+msgid "Paragraph"
+msgstr "Párrafo"
+
+#: inc/customizer/settings/general-settings.php:281
+msgid "Span"
+msgstr "Ancho"
+
+#: inc/customizer/settings/general-settings.php:262
+msgid "Markup"
+msgstr "Marcado"
+
+#: inc/customizer/settings/general-settings.php:245
+msgid "Content Area"
+msgstr "Área de contenido"
+
+#: inc/customizer/settings/general-settings.php:244
+msgid "Page Header"
+msgstr "Encabezado de página"
+
+#: inc/customizer/settings/general-settings.php:232
+msgid "Position"
+msgstr "Posición"
+
+#: inc/customizer/settings/general-settings.php:213
+msgid "Enable/Disable Page Title"
+msgstr "Activar/desactivar el título de la página"
+
+#: inc/customizer/settings/general-settings.php:186
+msgid "Page Title"
+msgstr "Título de página"
+
+#: inc/customizer/settings/general-settings.php:173
+#: inc/customizer/settings/main-banner.php:27
+msgid "Enable/Disable Banner"
+msgstr "Activar/desactivar Banner"
+
+#: inc/customizer/settings/general-settings.php:159
+msgid "Breadcrumb"
+msgstr "Migas de pan"
+
+#: inc/customizer/settings/general-settings.php:121
+msgid "Enable/Disable Preloader"
+msgstr "Activar/desactivar el precargador"
+
+#: inc/customizer/settings/general-settings.php:108
+msgid "Preloader"
+msgstr "Precargador"
+
+#: inc/customizer/settings/general-settings.php:96
+msgid "Load Google Fonts Locally?"
+msgstr "¿Cargar localmente las fuentes de Google?"
+
+#: inc/customizer/settings/general-settings.php:84
+msgid "Performance(Google Font)"
+msgstr "Rendimiento(Google Font)"
+
+#: inc/customizer/settings/general-settings.php:58
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/settings/general-settings.php:46
+#: inc/customizer/settings/general-settings.php:65
+msgid "SEO Optimized Images"
+msgstr "SEO Optimized Images"
+
+#: inc/customizer/settings/front-sections.php:79
+msgid "Drag And Drop to Rearrange"
+msgstr "Arrastrar y soltar para reordenar"
+
+#: inc/customizer/settings/front-sections.php:55
+#: inc/customizer/settings/front-sections.php:65
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/settings/front-sections.php:53
+msgid "Missed Section"
+msgstr "Sección perdida"
+
+#: inc/customizer/settings/front-sections.php:51
+#: inc/customizer/settings/front-sections.php:54
+#: inc/customizer/settings/front-sections.php:62
+#: inc/customizer/settings/front-sections.php:64
+msgid "Front Content"
+msgstr "Contenido de la portada"
+
+#: inc/customizer/settings/front-sections.php:41
+msgid "Reorder sections"
+msgstr "Reordenar secciones"
+
+#: inc/customizer/settings/front-sections.php:13
+msgid "Front Sections"
+msgstr "Secciones de portada"
+
+#: inc/customizer/settings/featured-video.php:178
+msgid "Enable/Disable blog section on front page"
+msgstr "Activar/desactivar la sección del blog en la portada"
+
+#: inc/customizer/settings/featured-video.php:177
+msgid "Enable/Disable Blog Section"
+msgstr "Activar/desactivar la sección Blog"
+
+#: inc/customizer/settings/featured-video.php:163
+msgid "Blog Posts"
+msgstr "Entradas del blog"
+
+#: inc/customizer/settings/featured-video.php:121
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: inc/customizer/settings/featured-video.php:102
+#: inc/customizer/settings/main-banner.php:127
+#: inc/customizer/settings/main-banner.php:208
+#: inc/customizer/settings/main-banner.php:285
+msgid "Enable/Disable Meta"
+msgstr "Activar/desactivar meta"
+
+#: inc/customizer/settings/featured-video.php:63
+#: inc/customizer/settings/main-banner.php:88
+#: inc/customizer/settings/main-banner.php:146
+#: inc/customizer/settings/main-banner.php:152
+#: inc/customizer/settings/main-banner.php:246
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+#: inc/customizer/settings/featured-video.php:27
+msgid "Enable/Disable Featured Video"
+msgstr "Activar/desactivar vídeo destacado"
+
+#: inc/customizer/settings/featured-video.php:13
+#: inc/customizer/settings/featured-video.php:38
+#: inc/customizer/settings/front-sections.php:52
+#: inc/customizer/settings/front-sections.php:63
+#: partials/front/news-video.php:35
+msgid "Featured Video"
+msgstr "Vídeo destacado"
+
+#: inc/customizer/settings/bottom-footer.php:114
+#: inc/customizer/settings/scroll-to-top.php:154
+#: inc/customizer/settings/site-identity.php:199
+#: inc/customizer/settings/theme-footer.php:164
+#: inc/customizer/settings/theme-header.php:173
+#: inc/customizer/settings/top-header.php:139
+#: inc/customizer/settings/top-header.php:279
+msgid "Enable/Disable Color"
+msgstr "Activar/Desactivar Color"
+
+#: inc/customizer/settings/bottom-footer.php:95
+msgid "Enable/Disable Footer Menu"
+msgstr "Activar/desactivar menú de pie de página"
+
+#: inc/customizer/settings/bottom-footer.php:77
+msgid "Copyright Text"
+msgstr "Texto del Copyright"
+
+#: inc/customizer/settings/bottom-footer.php:60
+msgid "Enable/Disable Copyright Text"
+msgstr "Activar/desactivar el texto de copyright"
+
+#: inc/customizer/settings/bottom-footer.php:35
+#: inc/customizer/settings/scroll-to-top.php:42
+#: inc/customizer/settings/site-identity.php:40
+#: inc/customizer/settings/theme-footer.php:42
+#: inc/customizer/settings/theme-header.php:47
+#: inc/customizer/settings/top-header.php:50
+#: inc/customizer/settings/top-header.php:212
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/settings/bottom-footer.php:27
+#: inc/customizer/settings/scroll-to-top.php:28
+#: inc/customizer/settings/site-identity.php:23
+#: inc/customizer/settings/theme-footer.php:27
+#: inc/customizer/settings/theme-header.php:27
+#: inc/customizer/settings/top-header.php:36
+#: inc/customizer/settings/top-header.php:199
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/settings/bottom-footer.php:12
+msgid "Bottom Footer"
+msgstr "Pie de página inferior"
+
+#: inc/customizer/settings/archives-options.php:70
+#: inc/customizer/settings/single-post-options.php:93
+msgid "Hide/Show Date"
+msgstr "Ocultar / Mostrar la fecha"
+
+#: inc/customizer/settings/archives-options.php:56
+msgid "Hide/Show Comments"
+msgstr "Ocultar/mostrar comentarios"
+
+#: inc/customizer/settings/archives-options.php:41
+#: inc/customizer/settings/single-post-options.php:63
+msgid "Hide/Show Tag"
+msgstr "Ocultar/Mostrar etiqueta"
+
+#: inc/customizer/settings/archives-options.php:27
+#: inc/customizer/settings/single-post-options.php:78
+msgid "Hide/Show Author"
+msgstr "Ocultar / Mostrar el nombre del autor"
+
+#: inc/customizer/customizer-recommended-plugin.php:17
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customizer/customizer-recommended-plugin.php:9
+msgid "Install and activate the %s plugin to import demo."
+msgstr "Instala y activa el plugin %s para importar la demo."
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:557
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:590
+#: inc/customizer/settings/top-header.php:259
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:552
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:535
+#: inc/customizer/settings/top-header.php:260
+msgid "Social icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:527
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:510
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:507
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:526
+#: partials/widgets/advertisement.php:87
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:489
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:484
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:525
+#: inc/customizer/settings/scroll-to-top.php:188
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:473
+#: partials/widgets/social-icons.php:224 partials/widgets/social-icons.php:232
+#: partials/widgets/social-icons.php:240 partials/widgets/social-icons.php:248
+#: partials/widgets/social-icons.php:256 partials/widgets/social-icons.php:264
+#: partials/widgets/social-icons.php:272 partials/widgets/social-icons.php:280
+msgid "Open link in a new tab"
+msgstr "Abre el enlace en una nueva pestaña"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:436
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:334
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:324
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:291
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:415
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:549
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:571
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:280
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:405
+#: partials/widgets/advertisement.php:76
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:397
+#: partials/widgets/advertisement.php:71
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:389
+#: inc/customizer/settings/featured-video.php:45
+#: inc/customizer/settings/news-highlight.php:71
+#: inc/customizer/settings/news-highlight.php:98 partials/widgets/tabs.php:217
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Añadir nuevo campo"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:221
+msgid "Welcome Banner"
+msgstr "Banner de bienvenida"
+
+#: functions.php:204
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: functions.php:200
+msgid "View Live Demos"
+msgstr "Ver demos en vivo"
+
+#: functions.php:196
+msgid "Theme Dashboard"
+msgstr "Escritorio del tema"
+
+#. translators: %s: theme name
+#: functions.php:191
+msgid "%s is now installed and ready to use. We've provide some links to get you started."
+msgstr "%s ya está instalado y listo para usar. Hemos proporcionado algunos enlaces para que puedas empezar."
+
+#: functions.php:81
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#: comments.php:86 comments.php:92
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:84
+msgid "Log out"
+msgstr "Desconectar"
+
+#: comments.php:84
+msgid "Log out from this Account"
+msgstr "Salir de esta cuenta"
+
+#: comments.php:84
+msgid "Logged in as"
+msgstr "Registrado como"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: 1: title.
+#: comments.php:29
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: admin/tab-pages/getting-started.php:122
+msgid "Pre-sales enquiry"
+msgstr "Consulta de preventa"
+
+#: admin/tab-pages/getting-started.php:118
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: admin/tab-pages/getting-started.php:114
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: admin/tab-pages/getting-started.php:110
+msgid "Free vs Pro"
+msgstr "Gratuito vs Pro"
+
+#: admin/tab-pages/getting-started.php:106
+msgid "Your feedback is valuable to us"
+msgstr "Tu feedback es muy valioso para nosotros"
+
+#: admin/tab-pages/getting-started.php:102
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/tab-pages/getting-started.php:98
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/tab-pages/getting-started.php:94
+msgid "Theme Demos"
+msgstr "Demo del tema"
+
+#: admin/tab-pages/getting-started.php:90
+msgid "Theme Detail"
+msgstr "Detalle del tema"
+
+#: admin/tab-pages/getting-started.php:85
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: admin/tab-pages/getting-started.php:49
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Theme Features"
+msgstr "Características del tema"
+
+#. translators: %s: theme name
+#: admin/tab-pages/getting-started.php:13
+msgid "%s Theme Configuration"
+msgstr "Configuración del tema %s"
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr "Te recomendamos encarecidamente que instales y actives el plugin Seo Optimized Images, que insertará dinámicamente atributos alt y atributos de título optimizados para buscadores para así mejorar la optimización de tus imágenes."
+
+#: admin/inc/class-spicethemes-about-page.php:544
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr "Para añadir los botones de compartir en redes sociales a tus entradas, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr "Para mostrar las entradas en un hermoso carrusel con múltiples opciones, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:534
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr "Para añadir una imagen del banner diferente para diferentes páginas o entradas, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:529
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr "Para activar la visualización de las migas de pan, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:524
+msgid "To display the contact form, install & activate this plugin."
+msgstr "Para mostrar el formulario de contacto, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:519
+msgid "To import the pre-designed demo data for the magazine theme, please install and activate this plugin."
+msgstr "Para importar los datos de demostración prediseñados para el tema de la revista, instala y activa este plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:374
+msgid "Active"
+msgstr "Activos"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:365
+msgid "Activate %s now"
+msgstr "Activar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:358
+msgid "Activate Import Plugin"
+msgstr "Activar el plugin de importación"
+
+#: admin/inc/class-spicethemes-about-page.php:354
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Activate"
+msgstr "Activar"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:334
+msgid "Install %s now"
+msgstr "Instalar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:327
+#: inc/customizer/upsell/class-customize.php:75
+#: inc/customizer/upsell/class-customize.php:86
+msgid "Import Demo"
+msgstr "Importar demo"
+
+#: admin/inc/class-spicethemes-about-page.php:323
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "%1$s theme is installed. To take full advantage of the features this theme has to offer visit our %2$swelcome page%3$s"
+msgstr "Se ha instalado el tema %1$s. Para sacarle el máximo partido a las funcionalidades de este tema, visita nuestra %2$spágina de bienvenida%3$s"
+
+#. translators: %1$s: theme name and %2$s: version of the theme
+#: admin/inc/class-spicethemes-about-page.php:116
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#. translators: %1$s: theme name and %2$s: count of recommended plugins
+#: admin/inc/class-spicethemes-about-page.php:114
+msgid "About %1$s %2$s"
+msgstr "Sobre %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:105
+msgid "View Theme Info"
+msgstr "Ver información del tema"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+#: inc/customizer-notify/newscrunch-customizer-notify.php:108
+msgid "Activating"
+msgstr "Activando"
+
+#: admin/inc/class-spicethemes-about-page.php:68
+msgid "Installing"
+msgstr "Instalando"
+
+#: 404.php:24
+msgid "404 Image"
+msgstr "Imagen 404"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/newscrunch-wordpress-theme/"
+msgstr "https://spicethemes.com/newscrunch-wordpress-theme/"
